@@ -1,0 +1,38 @@
+_repo: Initiation-into-Philosophy_9304
+_version: 0.0.1
+alternative_title: Initiation philosophique. English
+contributor:
+  translator:
+    agent_name: Gordon, Home
+    alias: Gordon, Home Seton Charles Montagu, Sir, Bart.
+    birthdate: 1871
+    deathdate: 1956
+    gutenberg_agent_id: '2802'
+    url: http://www.gutenberg.org/2009/agents/2802
+creator:
+  author:
+    agent_name: Faguet, Émile
+    aliases:
+    - Faguet, Emile
+    - Faguet, Auguste-Émile
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '4528'
+    url: http://www.gutenberg.org/2009/agents/4528
+    wikipedia: http://en.wikipedia.org/wiki/Émile_Faguet
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy -- Introductions'
+- GITenberg
+title: Initiation into Philosophy
+url: http://www.gutenberg.org/ebooks/9304
